@@ -1,5 +1,5 @@
 
-# ***Home Prices Analysis***
+# ***Auto Insurance Analysis***
 
 ## *Overview*
 *This project offers an in-depth analysis of Auto Insurance data leveraging **Tableau tools**. Key business metrics and trends are visualized through a comprehensive dashboard. The insights derived facilitate data-driven decision-making, aiding business growth.*
